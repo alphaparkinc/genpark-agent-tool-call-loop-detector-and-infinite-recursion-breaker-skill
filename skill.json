@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-tool-call-loop-detector-and-infinite-recursion-breaker-skill",
+  "version": "1.0.0",
+  "description": "Detects recursive tool-call loops, identical argument oscillations, and agent trajectory deadlocks with automated circuit breaker heuristics",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
