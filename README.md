@@ -55,3 +55,10 @@ result = ToolCallLoopDetector.analyze_trajectory(history)
 print(result["status"])  # "CIRCUIT_BREAKER_TRIGGERED"
 print(result["system_hint"])
 ```
+
+---
+
+## GenPark Ecosystem
+
+- **Official Website**: [https://www.genpark.ai](https://www.genpark.ai)
+- **LinkedIn Page**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)
